@@ -1,2 +1,2 @@
 # Omnifood
-omnifood project
+omnifood projects
